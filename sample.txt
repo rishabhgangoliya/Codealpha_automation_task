@@ -1,0 +1,5 @@
+Hello team,
+Please contact me at test@gmail.com or hello@yahoo.com for any questions.
+You can also reach our support at support@company.co.in.
+Other contacts: rishabh.sharma@outlook.com and info@my-website.org
+test@gmail.com is repeated on purpose, so it should be saved only once.
